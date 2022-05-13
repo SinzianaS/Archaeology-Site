@@ -1,0 +1,14 @@
+/Users/sinzi/Projects/ArchaeologySite/ArchaeologySite/obj/Debug/netcoreapp3.1/ArchaeologySite.csproj.AssemblyReference.cache
+/Users/sinzi/Projects/ArchaeologySite/ArchaeologySite/obj/Debug/netcoreapp3.1/ArchaeologySite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinzi/Projects/ArchaeologySite/ArchaeologySite/obj/Debug/netcoreapp3.1/ArchaeologySite.AssemblyInfoInputs.cache
+/Users/sinzi/Projects/ArchaeologySite/ArchaeologySite/obj/Debug/netcoreapp3.1/ArchaeologySite.AssemblyInfo.cs
+/Users/sinzi/Projects/ArchaeologySite/ArchaeologySite/obj/Debug/netcoreapp3.1/ArchaeologySite.csproj.CoreCompileInputs.cache
+/Users/sinzi/Projects/ArchaeologySite/ArchaeologySite/bin/Debug/netcoreapp3.1/ArchaeologySite
+/Users/sinzi/Projects/ArchaeologySite/ArchaeologySite/bin/Debug/netcoreapp3.1/ArchaeologySite.deps.json
+/Users/sinzi/Projects/ArchaeologySite/ArchaeologySite/bin/Debug/netcoreapp3.1/ArchaeologySite.runtimeconfig.json
+/Users/sinzi/Projects/ArchaeologySite/ArchaeologySite/bin/Debug/netcoreapp3.1/ArchaeologySite.runtimeconfig.dev.json
+/Users/sinzi/Projects/ArchaeologySite/ArchaeologySite/bin/Debug/netcoreapp3.1/ArchaeologySite.dll
+/Users/sinzi/Projects/ArchaeologySite/ArchaeologySite/bin/Debug/netcoreapp3.1/ArchaeologySite.pdb
+/Users/sinzi/Projects/ArchaeologySite/ArchaeologySite/obj/Debug/netcoreapp3.1/ArchaeologySite.dll
+/Users/sinzi/Projects/ArchaeologySite/ArchaeologySite/obj/Debug/netcoreapp3.1/ArchaeologySite.pdb
+/Users/sinzi/Projects/ArchaeologySite/ArchaeologySite/obj/Debug/netcoreapp3.1/ArchaeologySite.genruntimeconfig.cache
